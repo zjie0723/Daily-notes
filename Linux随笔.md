@@ -1,4 +1,4 @@
-
+```
 启动tomcat没有java权限
 chmod +x /home/user/java/jdk1.7.0/bin/java
 chmod 777 /home/jdk.bin
@@ -78,3 +78,4 @@ jps -lv
 jmap -heap 8080
 jstat -gc 23055
 
+```
